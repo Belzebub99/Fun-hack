@@ -1,0 +1,21 @@
+# Fun-hack
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <title>مفاجأة!</title>
+  <style>
+    body {
+      background-color: black;
+      color: red;
+      font-size: 40px;
+      text-align: center;
+      margin-top: 20%;
+      font-family: 'Courier New', monospace;
+    }
+  </style>
+</head>
+<body>
+  لقد تم تهكيرك يا مغفل!
+</body>
+</html>
